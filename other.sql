@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS `dbbackup`;
+DROP DATABASE IF EXISTS `dbdesktop`;
+DROP DATABASE IF EXISTS `dbfulfillment`;
+DROP DATABASE IF EXISTS `dbmobile`;
+DROP DATABASE IF EXISTS `dbmanagement`;
